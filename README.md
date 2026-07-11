@@ -3,10 +3,10 @@
 <h3 align="center">Full-Stack Developer | MERN Stack | Competitive Programmer</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/chandan-jha333/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:chandanj2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/YOUR-LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://codeforces.com/profile/YOUR-CODEFORCES"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/chandanjha333/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://codeforces.com/profile/chandanjha333"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 </p>
 
 ---
@@ -15,7 +15,7 @@
 
 - 🎓 B.Tech student in **Automation & Robotics** at GGSIPU, New Delhi
 - 💻 Building full-stack apps with the **MERN stack** (React, Node.js, Express, MongoDB)
-- 🏆 Competitive programmer — **350+ problems** solved on LeetCode, **1600+ rating** on Codeforces
+- 🏆 Competitive programmer — **350+ problems** solved on LeetCode with **1600+ rating**
 - 🌱 Currently building **LinkVault** (a URL shortener with analytics) and an **AI-powered study material generator**
 - 🔍 Actively looking for **SDE / Full-Stack Developer** roles and internships
 - 📫 Reach me at **chandanj2004@gmail.com**
@@ -60,9 +60,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| **[LinkVault](https://github.com/chandanjha333/REPO-NAME)** | URL shortener with branded links & click analytics for marketers | React, Node.js, Redis, TypeScript |
-| **[Study Material Generator](https://github.com/chandanjha333/REPO-NAME)** | Converts PDFs, YouTube videos & text into notes, flashcards, and quizzes using LLM APIs | MERN, LLM APIs |
-| **[Khet2U](https://github.com/chandanjha333/REPO-NAME)** | Farm-to-consumer marketplace deployed on Render with MongoDB Atlas | MERN, JWT Auth |
+| **[Khet2U](https://github.com/chandanjha333/Khet2U)** | Farm-to-consumer marketplace deployed on Render with MongoDB Atlas | MERN, JWT Auth |
 
 ---
 
@@ -81,15 +79,3 @@
 
 <p align="center"><i>⭐️ Open to SDE / Full-Stack opportunities — let's connect!</i></p><!--
 **chandanjha333/chandanjha333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
